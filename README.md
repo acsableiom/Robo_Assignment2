@@ -6,6 +6,6 @@ CurtainMover.py contains preliminary code for IoT version for use with Amazon Ec
 
 The code for CurtainMover.py was sourced by https://www.hackster.io/amine-amri2/auto-curtains-f98c4b
 
-##Issues
+## Issues
 
 Couldn't manage to get Python to work on the EV3 Brick and had no resource for an Amazon Echo Device.
